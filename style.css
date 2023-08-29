@@ -1,4 +1,10 @@
 * {
     background-color: gray;
-    border: 2px solid blue;
+    
+}
+body {
+    background-color: beige;
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px;
 }
